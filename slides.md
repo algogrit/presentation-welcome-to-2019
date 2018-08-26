@@ -16,7 +16,7 @@ class: center, middle
 
 ![Me](assets/images/me.png)
 
-Lead Technical Consultant @ Tarka Labs
+Lead Technical Consultant @ .tarkalabs-logo[![Tarka Labs](assets/images/tarkalabs.svg)]
 
 ex-ThoughtWorker, ex-BrowserStackian, Independent Consultant
 
