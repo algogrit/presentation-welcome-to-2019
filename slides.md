@@ -1,6 +1,6 @@
 layout: true
 
-.signature[@gauravagarwalr]
+.signature[@algogrit]
 
 ---
 
@@ -16,9 +16,9 @@ class: center, middle
 
 ![Me](assets/images/me.png)
 
-Lead Technical Consultant @ .tarkalabs-logo[![Tarka Labs](assets/images/tarkalabs.svg)]
+Independent Consultant / Open Source Contributor and Creator of @mithaibhai, @silkmon, @codermana
 
-ex-ThoughtWorker, ex-BrowserStackian, Independent Consultant
+ex-Tarkan, ex-ThoughtWorker, ex-BrowserStackian, Independent Consultant
 
 Involved in Chennai Go community for ~6 months
 
@@ -31,7 +31,7 @@ Involved in Chennai Go community for ~6 months
 class: center, middle
 
 Code
-https://github.com/gauravagarwalr/presentation-template
+https://github.com/algogrit/presentation-template
 
 Slides
-https://template.presentation.gauravagarwalr.com
+https://template.slides.algogrit.com
