@@ -12,19 +12,19 @@ Gaurav Agarwal
 
 ---
 
+# Agenda
+
+---
+
 class: center, middle
 
 ![Me](assets/images/me.png)
 
-Independent Consultant / Open Source Contributor and Creator of @mithaibhai, @silkmon, @codermana
+Maker @ MithaiBhai - SilkMon - CoderMana
 
-ex-Tarkan, ex-ThoughtWorker, ex-BrowserStackian, Independent Consultant
+ex-Consultant, ex-Tarkan, ex-ThoughtWorker, ex-BrowserStackian
 
-Involved in Chennai Go community for ~6 months
-
----
-
-# Agenda
+Involved in Chennai Gopher community for ~6 months
 
 ---
 
