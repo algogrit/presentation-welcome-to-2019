@@ -22,9 +22,9 @@ class: center, middle
 
 Maker @ MithaiBhai - SilkMon - CoderMana
 
-ex-Consultant, ex-Tarkan, ex-ThoughtWorker, ex-BrowserStackian
+Volunteer / Co-organizer @ Chennai Gopher community
 
-Involved in Chennai Gopher community for ~6 months
+ex-Consultant, ex-Tarka Labs, ex-BrowserStack, ex-ThoughtWorks
 
 ---
 
