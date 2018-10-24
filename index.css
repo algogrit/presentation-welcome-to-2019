@@ -25,10 +25,50 @@ h1, h2, h3 {
 .signature {
   position: absolute;
   bottom: 15px;
-  left: 30px;
+  left: 20px;
 }
 
 a {
   color: #ccc;
   text-decoration: none;
+}
+
+img {
+  background-size: cover;
+  max-width: 100%;
+}
+
+.left-column {
+  color: #ccc;
+  width: 20%;
+  height: 92%;
+  float: left;
+}
+
+.right-column {
+  width: 75%;
+  float: right;
+  padding-top: 1em;
+}
+
+.image-credits {
+  font-size: 10px;
+  position: absolute;
+  bottom: 40px;
+  right: 20px;
+}
+.image-credits::before {
+  font-size: 10px;
+  content: 'Image Credits: ';
+}
+
+.content-credits {
+  font-size: 10px;
+  position: absolute;
+  bottom: 55px;
+  right: 20px;
+}
+.content-credits::before {
+  font-size: 10px;
+  content: 'Content Credits: ';
 }
