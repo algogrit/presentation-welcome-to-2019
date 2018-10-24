@@ -18,4 +18,4 @@ Powered by [Remark](https://remarkjs.com).
 
     * Code         -> https://carbon.now.sh
     * Terminal Gif -> [ttyrec](http://0xcc.net/ttyrec/) / [ttygif](https://github.com/icholy/ttygif)
-    * Gif          -> Gifsicle
+    * Gif          -> Licecap
