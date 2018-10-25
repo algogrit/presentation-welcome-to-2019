@@ -45,6 +45,10 @@ img {
   float: left;
 }
 
+.left-column strong {
+  color: #eee;
+}
+
 .right-column {
   width: 75%;
   float: right;
