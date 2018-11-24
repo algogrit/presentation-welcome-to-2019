@@ -20,9 +20,9 @@ class: center, middle
 
 ![Me](assets/images/me.png)
 
-Maker @ MithaiBhai - SilkMon - CoderMana
+Indie Software Engineer & Trainer
 
-Volunteer / Co-organizer @ Chennai Gopher community
+Volunteer / Co-organizer at Golang India & Gopher Chennai
 
 ex-Consultant, ex-Tarka Labs, ex-BrowserStack, ex-ThoughtWorks
 
