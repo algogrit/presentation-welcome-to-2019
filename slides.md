@@ -20,7 +20,7 @@ class: center, middle
 
 ![Me](assets/images/me.png)
 
-Indie Software Engineer & Trainer
+Indie Software Engineer, Speaker & Trainer
 
 Volunteer / Co-organizer at Golang India & Gopher Chennai
 
