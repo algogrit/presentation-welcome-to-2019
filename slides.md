@@ -20,11 +20,11 @@ class: center, middle
 
 ![Me](assets/images/me.png)
 
-Indie Software Engineer, Speaker & Trainer
+Software Engineer & Product Developer
 
-Volunteer / Co-organizer at Golang India & Gopher Chennai
+Consultant & Trainer @ https://agarwalconsulting.io
 
-ex-Consultant, ex-Tarka Labs, ex-BrowserStack, ex-ThoughtWorks
+ex-Tarka Labs, ex-BrowserStack, ex-ThoughtWorks
 
 ---
 
