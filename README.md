@@ -14,6 +14,11 @@ Powered by [Remark](https://remarkjs.com).
     * slides.md  -> {title}, template
     * CNAME      -> template
 
+### Automated
+
+    $ echo 'New Title' > TITLE
+    $ ./create-and-update-remote.sh
+
 ## Content generation
 
     * Code         -> https://carbon.now.sh
