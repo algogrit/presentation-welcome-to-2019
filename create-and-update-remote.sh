@@ -14,3 +14,6 @@ gsed -i s/template/$kebab_title/g slides.md
 cname=`cat CNAME`
 
 hub create -d "Presentation for $title" -h "https://$cname" presentation-$kebab_title
+
+git commit -m "New: $title"
+git push -u
