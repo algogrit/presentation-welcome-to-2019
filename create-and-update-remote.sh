@@ -13,6 +13,7 @@ gsed -i s/template/$kebab_title/g CNAME
 gsed -i s/template/$kebab_title/g slides.md
 cname=`cat CNAME`
 
+git remote remove origin
 hub create -d "Presentation for $title" -h "https://$cname" presentation-$kebab_title
 
 git commit -m "New: $title"
