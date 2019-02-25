@@ -22,7 +22,7 @@ class: center, middle
 
 Software Engineer & Product Developer
 
-Consultant & Trainer @ https://agarwalconsulting.io
+Principal Consultant & Founder @ https://agarwalconsulting.io
 
 ex-Tarka Labs, ex-BrowserStack, ex-ThoughtWorks
 
