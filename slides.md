@@ -6,7 +6,7 @@ layout: true
 
 class: center, middle
 
-# {title}
+# Welcome to 2019
 
 Gaurav Agarwal
 
@@ -31,7 +31,7 @@ ex-Tarka Labs, ex-BrowserStack, ex-ThoughtWorks
 class: center, middle
 
 Code
-https://github.com/algogrit/presentation-template
+https://github.com/algogrit/presentation-welcome-to-2019
 
 Slides
-https://template.slides.algogrit.com
+https://welcome-to-2019.slides.algogrit.com
