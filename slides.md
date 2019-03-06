@@ -71,7 +71,7 @@ class: center, middle
 * Learnt to design printed circuit boards using KiCAD over a weekend
 * Built interactive visualisations using SVG
 * Using OpenCV to stitch images taken inside of a mine
-* Taught myself new technologies, when I realised my current toolset sufficient
+* Taught myself new technologies, when I realised my current toolset wasn't sufficient
 * Built 3D interactive visualisations
 * Deploying serverless code
 
