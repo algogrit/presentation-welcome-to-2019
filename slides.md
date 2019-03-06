@@ -224,8 +224,18 @@ class: center, middle
 
 > Not every app can be world changing, but a world changing app can come from anywhere
 
+---
+# Useful tools and platforms
+
+* Git / Github
+* Numpy, Tensorflow / Kaggle
+* Exercism.io / Euler's problems
+* Unix - Learn it well
+* Docker
+* Python
 
 ---
+
 class: center, middle
 
 Code
