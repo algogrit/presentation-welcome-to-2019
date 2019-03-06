@@ -3,6 +3,7 @@
 @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
 
 body {
+  background: #444;
   font-family: 'Droid Serif';
 }
 
@@ -75,6 +76,10 @@ img {
 .content-credits::before {
   font-size: 10px;
   content: 'Content Credits: ';
+}
+
+body.light {
+  background: #333;
 }
 
 body.light .remark-slide-content {
