@@ -54,13 +54,6 @@ class: center, middle
 
 ---
 
-* Almost had an arrear in OS in 4th sem
-* Almost got fired during my internship period due to under performing
-* Almost got fired from BrowserStack for bringing production systems down
-* Almost on the verge of bankruptcy last year due to tax implications
-
----
-
 * First project out of internship, single-handedly delivered it to client while learning 3 technologies
 * Deployed a map-tile server, and using it to plot a famous supermarket's stores across a nation
 * Identified and corrected anomalies in sales and purchase records while analysing 30K customers data
@@ -77,7 +70,7 @@ class: center, middle
 
 ---
 
-* First person to get placed in my batch
+* First person to be placed in my batch
 * Attended plenty of national & international level conferences
 * Won quiz competition at an international conf
 * Spoke at a conf in Vietnam last December
@@ -114,8 +107,6 @@ class: center, middle
 ---
 
 ### Industry Buzz-words
-
-#### Current
 
 * AI/ML
 * IoT
@@ -175,8 +166,63 @@ class: center, middle
 .content-credits[https://www.coinbase.com/price/bitcoin]
 
 ---
+
+### Modern application architecture
+
+- Distributed systems
+  - Cloud Computing (AWS / Azure / Google Cloud Platform / etc)
+  - Different Databases
+  - Erlang / Go / Node.js / Java
+- Web applications
+  - ReST
+  - GRPC
+- Web UI
+  - SVG (D3.js)
+  - FRP (React / Vue.js / Elm)
+- New protocols
+  - HTTP 2 / HTTP 3 / Websockets / WebRTC
+
+---
+
+# Overview of the tech community in Chennai
+
+- FnPlus Tech (Student)
+- Python / Ruby / JS / Rust / Go
+- Azure / AWS / GCP
+- IoT for all
+- GeekNight / DevDay
+
+---
+
+## Benefits
+
+- Networking
+- Knowledge sharing
+- Workshops / Hackathons
+- Easy internships -> Jobs
+- Working alongside people in the industry
+
+---
 class: center, middle
 
+# Learnings
+
+---
+class: center, middle
+
+## Don't be a lone wolf, learn to work in a pack!
+
+---
+class: center, middle
+
+## Be a force multiplier: your true greatness lies in bringing out the best in others
+
+---
+class: center, middle
+
+![Great Artist](/assets/images/great-artist-come-from-anywhere.jpg)
+
+> Not every app can be world changing, but a world changing app can come from anywhere
 
 
 ---
