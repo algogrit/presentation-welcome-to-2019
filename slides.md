@@ -233,6 +233,7 @@ class: center, middle
 * Unix - Learn it well
 * Docker
 * Python
+* Heroku (or any cloud platform!)
 
 ---
 
