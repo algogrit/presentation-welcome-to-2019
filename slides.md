@@ -43,6 +43,7 @@ class: center, middle
 
 ---
 
+* Joined RMK IT department batch 2008-2012 batch
 * Began internship with ThoughtWorks in Jan 2012
 * Graduated in 2012
 * Later moved to BrowserStack in Mumbai
