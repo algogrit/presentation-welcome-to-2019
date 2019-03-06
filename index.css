@@ -3,8 +3,11 @@
 @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
 
 body {
-  background: #444;
   font-family: 'Droid Serif';
+}
+
+body.remark-container {
+  background: #444;
 }
 
 h1, h2, h3 {
@@ -78,7 +81,7 @@ img {
   content: 'Content Credits: ';
 }
 
-body.light {
+body.remark-container.light {
   background: #333;
 }
 
