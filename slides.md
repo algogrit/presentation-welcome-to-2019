@@ -204,6 +204,15 @@ class: center, middle
 - Working alongside people in the industry
 
 ---
+
+# International competitions and platforms
+
+- GSoC (Google Summer of Code)
+- Microsoft Imagine Cup
+
+.content-credits[https://www.thoughtco.com/list-of-programming-contests-challenges-958193]
+
+---
 class: center, middle
 
 # Learnings
