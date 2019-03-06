@@ -210,12 +210,12 @@ class: center, middle
 ---
 class: center, middle
 
-## Don't be a lone wolf, learn to work in a pack!
+### Don't be a lone wolf, learn to work in a pack!
 
 ---
 class: center, middle
 
-## Be a force multiplier: your true greatness lies in bringing out the best in others
+### Be a force multiplier: your true greatness lies in bringing out the best in others
 
 ---
 class: center, middle
